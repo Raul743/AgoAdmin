@@ -1,0 +1,29 @@
+.libongo-statistic-card {
+  display: flex;
+  margin-bottom: 10;
+}
+
+.libongo-statistic-card-fisrt,
+.libongo-statistic-card-second {
+  width: 50%;
+  padding: 20px;
+  border-radius: 5px;
+  border: 0;
+  outline-style: none;
+  outline: 0;
+  outline: unset;
+  text-align: left;
+}
+.libongo-statistic-card-fisrt {
+  background-color: #e0f0f8;
+  border-top: 3px solid #4a90e2;
+}
+.libongo-statistic-card-fisrt:hover {
+  border-top: 3px solid #4a90e2;
+}
+.libongo-statistic-card-fisrt:focus {
+  border-top: 3px solid #4a90e2;
+}
+.libongo-statistic-card-second {
+  background-color: white;
+}

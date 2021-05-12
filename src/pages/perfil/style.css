@@ -1,0 +1,9 @@
+.noShadow {
+  box-shadow: none !important;
+}
+.rotas {
+  font-size: 15px;
+  vertical-align: center;
+  color: red;
+  padding: 4px;
+}

@@ -1,0 +1,29 @@
+.dark-notification-content{
+    background: #fff;
+   
+}
+.dark-notification-viewer {
+    padding: 20px;
+}
+.dark-notification-title{
+    padding: 10px;
+    padding-left: 20px;
+    border-bottom: 1px solid #E5E5E5;
+}
+.dark-notification-title p{
+    font-size: 18px;
+    margin: 0px;
+    padding: 10px;
+}
+.dark-avatar{
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.dark-avatar  div img{
+    border-radius: 500px;
+}
+.dark-avatar div p{
+    margin: 0px;
+    margin-left: 10px;
+}

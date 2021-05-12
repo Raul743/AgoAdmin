@@ -1,0 +1,16 @@
+iteste {
+   width: 100%;
+}
+.midifi .ui.search .prompt{
+    border-radius: 0.25rem !important;
+}
+.midifi .input{
+    width: 100% !important;
+    box-shadow: 0 3px 2px rgba(233, 236, 239, 0.05);
+    border-radius: 0.25rem;
+    border-top-left-radius: 0.25rem;
+    border-top-right-radius: 0.25rem;
+    border-bottom-right-radius: 0.25rem;
+    border-bottom-left-radius: 0.25rem;
+    transition: all 0.15s ease-in-out;
+}

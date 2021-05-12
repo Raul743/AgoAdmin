@@ -1,0 +1,98 @@
+.div-out-rs.t .css-bg1rzq-control {
+    border-radius: 4px 0px 0px 4px !important;
+}
+.teste-384 {
+    width: 20px;
+    height: 20px;
+    font-size: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.div-out-rs {
+    position: relative;
+    display: flex !important;
+}
+.div-out-rs.input-group {
+    position: relative;
+}
+
+.form-control-sm._4Select {
+    height: 38px !important;
+}
+
+.ondelte-r-select * {
+    cursor: pointer;
+}
+.ondelte-r-select:hover {
+    color: #666666;
+}
+
+.ondelte-r-select i {
+    font-size: 13px;
+}
+
+.ondelte-r-select {
+    transition: 0.3s;
+    margin-top: 4px;
+    margin-right: 4px;
+    color: #cccccc;
+    cursor: pointer;
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    border-radius: 5px;
+    z-index: 1;
+    right: 0;
+    top: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+
+.teste-384 > i {
+    position: absolute;
+}
+
+.teste-384 > i:hover > div {
+    /*opacity: 1;*/
+}
+.t.kfgjug:hover > div {
+    opacity: 1;
+}
+
+.teste-384 div {
+    opacity: 0;
+    z-index: 1;
+    background-color: black;
+    color: white;
+    transition: 0.3s;
+    font-family: Open Sans, sans-serif !important;
+    position: absolute;
+    padding: 5px;
+    border-radius: 5px;
+    margin-top: -38px;
+    white-space: nowrap;
+    top: 0;
+    right: 0;
+    margin-right: -10px;
+}
+
+.teste-384 div::before {
+    content: " ";
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 10px;
+    width: 0;
+    height: 0;
+    border-left: 8px solid transparent;
+    border-right: 8px solid transparent;
+    border-top: 8px solid black; /* black*/
+    right: 0;
+    position: absolute;
+    bottom: 0;
+    margin-bottom: -8px;
+}

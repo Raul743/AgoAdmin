@@ -1,0 +1,58 @@
+.isLoadin-Data input{
+  height: 35px !important;
+}
+.searchHover{
+    width: 100% !important;
+}
+
+
+.ui-maxWidth .input {
+    width: 100%!important;
+}
+.ui.search>.results{
+    margin-top: 0.9em !important;
+}
+.ui.search .input {
+    display: flex;
+    align-items: center;
+    height: calc(1.9rem) !important;
+}
+
+.ui.search.default .prompt {
+    /* border-radius: 500rem; */
+    border-radius: 0.25rem;
+}
+
+.ui.search.appearToLeft .results .image {
+    float: left!important;
+}
+
+.title {
+    font-size: 13.7px!important;
+}
+
+.description {
+    /* font-size: 0.775rem!important; */
+}
+
+.description .row div:not(.except) {
+    font-size: 0.65rem!important;
+    padding-left: 0!important;
+}
+
+.ui.search>.results>.message .header {
+    /* font-family: 'Lato', 'Helvetica Neue', Arial, Helvetica, sans-serif; */
+    font-size: 14.7px!important;
+}
+
+.icon-color-gn {
+    color: #8ecc61!important;
+}
+
+.icon-color-org {
+    color: #f59d56!important;
+}
+
+.results .content {
+    margin-right: 0!important;
+}

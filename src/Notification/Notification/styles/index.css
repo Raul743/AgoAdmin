@@ -1,0 +1,64 @@
+.dark-sidebar-notification{
+    background-color: #fff;
+    width: 100%;
+    height: 700px;
+    border-radius: 6px;
+    padding: 25px;
+}
+.dark-main-notification{
+    background-color: #F8F9FA;
+    width: 100%;
+    height: 700px;
+    border-radius: 6px;
+    padding: 15px;
+}
+.notification .row  .col-xl-3, .col-xl-9{
+    padding: 0px !important;
+}
+.notification-title{
+    width: 100%;
+    background-color: #DE4A58;
+    padding: 15px;
+    border-radius: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.notification-title p{
+    padding: 0px;
+    margin: 0px;
+    color: #fff;
+}
+.dark-menu{
+    list-style-position: inside;
+    padding: 0px;
+    margin: 0px;
+    margin-top: 20px;
+}
+.dark-menu li {
+    list-style: none;
+    list-style-position: inside;
+    padding: 12px;
+    display: flex;
+}
+.dark-menu li i {
+    padding-right: 3px;
+    justify-content: center;
+    align-items: center;
+}
+dark-menu li span {
+    width: 4px !important;
+}
+.dark-menu li:hover{
+    border-left: 3px solid #FB9678;
+    box-sizing: border-box;
+    background-color: #E9ECEF;
+    cursor: pointer;
+}
+.dark-menu li p{
+    margin: 0px;
+}
+.btn-options{
+    width: 100%;
+    height: 50px;
+}
